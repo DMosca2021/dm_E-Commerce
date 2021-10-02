@@ -35,4 +35,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video Demo
 
-[Link to Demo Video]()
+[Link to Demo Video](https://watch.screencastify.com/v/6gCRZE2mY4ktZ4p3w2Kb)
