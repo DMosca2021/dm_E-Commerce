@@ -3,6 +3,8 @@ Week 13 Homework
 
 ## Description
 
+In this homework we are tasked with setting up a simple E-commerce backend using object-relational mapping (ORM). 
+
 ## User Story
 
 ```md
@@ -29,8 +31,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Access to repo 
 
+[Repo Link](https://github.com/DMosca2021/dm_E-Commerce)
+
 ## Video Demo
 
-## Screenshot
-
-## Credits 
+[Link to Demo Video]()
